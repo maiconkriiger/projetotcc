@@ -1,0 +1,39 @@
+inherited FMenu: TFMenu
+  ClientHeight = 375
+  ClientWidth = 250
+  DesignerMasterStyle = 0
+  inherited Button1: TButton
+    Position.X = 56.000000000000000000
+    Position.Y = 168.000000000000000000
+    Size.Width = 153.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Visualizar'
+  end
+  inherited Button2: TButton
+    Position.X = 56.000000000000000000
+    Position.Y = 232.000000000000000000
+    Size.Width = 153.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Relat'#243'rios'
+  end
+  inherited Label1: TLabel
+    StyledSettings = [Family, FontColor]
+    Position.X = 96.000000000000000000
+    Position.Y = 96.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 22.000000000000000000
+    TextSettings.Font.Style = [fsBold]
+    Text = 'Menu'
+  end
+  inherited Button3: TButton
+    Position.Y = 298.000000000000000000
+    Size.Width = 152.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Ajuda'
+  end
+end

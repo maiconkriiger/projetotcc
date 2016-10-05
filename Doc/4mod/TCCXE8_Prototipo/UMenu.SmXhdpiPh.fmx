@@ -1,0 +1,12 @@
+inherited FMenu: TFMenu
+  ClientHeight = 375
+  ClientWidth = 250
+  DesignerMasterStyle = 0
+  inherited Image1: TImage
+    MultiResBitmap.Height = 768
+    MultiResBitmap.Width = 1366
+    MultiResBitmap.LoadSize = 1
+    Size.Width = 250.000000000000000000
+    Size.Height = 375.000000000000000000
+  end
+end

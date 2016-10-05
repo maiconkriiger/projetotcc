@@ -1,0 +1,11 @@
+inherited FSubMenu: TFSubMenu
+  ClientHeight = 375
+  ClientWidth = 250
+  DesignerMasterStyle = 3
+  inherited Image1: TImage
+    MultiResBitmap.Height = 789
+    MultiResBitmap.Width = 500
+    Size.Width = 250.000000000000000000
+    Size.Height = 375.000000000000000000
+  end
+end

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/08/19 21:03:24.000.125,=J:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/19 21:26:41.000.574,=J:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/19 21:40:01.000.940,J:\Documentos\Embarcadero\Studio\Projects\Unit1.pas=J:\Curso\TCCXE8_Prototipo\UMenu.pas</Transaction>
+    <Transaction>2016/08/19 21:40:01.000.940,J:\Documentos\Embarcadero\Studio\Projects\Unit1.fmx=J:\Curso\TCCXE8_Prototipo\UMenu.fmx</Transaction>
+    <Transaction>2016/08/19 21:40:18.000.269,J:\Documentos\Embarcadero\Studio\Projects\Project1.dproj=J:\Curso\TCCXE8_Prototipo\PKriigerSilo.dproj</Transaction>
+    <Transaction>2016/08/19 21:42:12.000.283,=J:\Curso\TCCXE8_Prototipo\Unit2.pas</Transaction>
+    <Transaction>2016/08/19 21:58:31.000.640,J:\Curso\TCCXE8_Prototipo\Unit2.fmx=J:\Curso\TCCXE8_Prototipo\USubMenu.fmx</Transaction>
+    <Transaction>2016/08/19 21:58:31.000.640,J:\Curso\TCCXE8_Prototipo\Unit2.pas=J:\Curso\TCCXE8_Prototipo\USubMenu.pas</Transaction>
+  </Transactions>
+</BorlandProject>

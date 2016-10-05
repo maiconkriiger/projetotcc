@@ -1,0 +1,28 @@
+inherited Form1_LgXhdpiPh: TForm1_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 0
+  inherited Image1: TImage
+    MultiResBitmap.Height = 768
+    MultiResBitmap.Width = 1366
+    MultiResBitmap.LoadSize = 1
+    Size.Width = 450.000000000000000000
+    Size.Height = 695.000000000000000000
+    WrapMode = Center
+  end
+  inherited Button1: TButton
+    Position.X = 96.000000000000000000
+    Position.Y = 192.000000000000000000
+  end
+  inherited Label1: TLabel
+    Position.X = 128.000000000000000000
+  end
+  inherited Button2: TButton
+    Position.X = 96.000000000000000000
+    Position.Y = 256.000000000000000000
+  end
+  inherited Button3: TButton
+    Position.X = 96.000000000000000000
+    Position.Y = 328.000000000000000000
+  end
+end
